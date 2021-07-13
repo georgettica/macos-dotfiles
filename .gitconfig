@@ -1,0 +1,6 @@
+[alias]
+	adog = log --abbrev --decorate --oneline --graph
+[init]
+	defaultBranch = main
+[user]
+	name = Ron Green
