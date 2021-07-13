@@ -1,0 +1,11 @@
+= Macos Dotfiles
+Ron Green <d1993626+georgettica@users.noreply.github.com>
+:reproducible:
+:listing-caption: Listing
+:source-highlighter: rouge
+:toc:
+
+
+holds all of the dot files I used for my macOS
+
+created with inspiration of  https://www.atlassian.com/git/tutorials/dotfiles[this website]
